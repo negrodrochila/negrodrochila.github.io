@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+nav{
+    margin: 30px 0;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+main{
+    background: url(../img/bg1.png);
+    background-size: cover;
+    height: 900px;
+}
+
+.obri-main-page .kel img{
+    width: 600px;
+}
+
+.obri-main-page{
+margin: 100px;
+}
+
+.obri-main-page .pluto{
+    color: #444251;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 105.2%; /* 42.08px */
+    width: 600px;
+    height: 129px;
+    flex-shrink: 0;
+}
+
+.obri-main-page .hero-btns {
+    display: flex;
+    margin-top: 100px;
+}
+
+.obri-main-page .hero-btns .btn{
+    width: 182.395px;
+    height: 38px;
+    flex-shrink: 0;
+    border: #9C0746 1px solid;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    margin-right: 60px;
+}
+
+.obri-main-page .hero-btns p{
+    margin-top: 10px;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 105.2%; /* 18.936px */
+   
+}
+
+.kill-ur-sister-price p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 30px;
+    color: #fff;
+
+}
+.kill-ur-sister-price{
+    position: absolute;
+    top: 341px;
+    left: 1480px;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    background: #333;
+    border-radius: 100%;
+}
+
+.sweetheart{
+    position: absolute;
+    top: 1000px;
+    left: 1000px;
+    width: 400px;
+}
+
+.title{
+    width: 100%;
+    text-align: center;
+    color: #444251;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 50px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+
+margin: 30px 0;
+}
+
+.mewo{
+    width: 275px;
+}
+.mt{
+    color: #9C0746;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.mcap{
+    color: #444251;
+text-align: center;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+/* basil */
+.mprace{    color: #9C0746;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+
+.mewo-btn{
+    border-radius: 50px;
+background: linear-gradient(86deg, #9C0746 -15.57%, #B44E79 128.11%);
+box-shadow: 0px 20px 40px 0px rgba(66, 2, 29, 0.31);
+width: 200px;
+height: 40px;
+
+display: flex;
+justify-content: center;
+margin-left: 50px;
+margin-top: 20px;
+}
+
+.mewo-btn p{
+    color: #FFF;
+
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 105.2%; /* 18.936px */
+
+margin-top: 10px;
+
+margin: auto;
+}
+
+.line{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 0;
+}
+
+.sweetheartandkel{
+    width: 160px;
+flex-shrink: 0;
+margin-left: 120px;
+}
